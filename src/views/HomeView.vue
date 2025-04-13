@@ -14,6 +14,3 @@ let message = ref("Hello World! This is a VueJS and Flask Starter Template.")
     </div>
 </template>
 
-<style>
-/* Add any component specific styles here */
-</style>
